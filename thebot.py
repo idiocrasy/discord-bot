@@ -9,7 +9,7 @@ from discord.ext import commands
 
 prefix = '$'
 try: token = str(open('token.txt','r').readline().strip()); prefix = '>'
-except: token = 'Nzc2MTE5ODAzNDQ2MTY1NTM0.X6wP5A.-B9_eoeNhvdhrPU4FG7785PFiqM'
+except: token = 'do not see me token'
 
 # main bot
 
